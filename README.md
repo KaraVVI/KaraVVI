@@ -2,7 +2,7 @@
 
 - I'm Senior Application Engineer DCS in Schneider Electric
 - I’m currently studing Data Science
-- My goal is to study speech recognition algorithms and put them into practice
+- My goal is to learn speech recognition algorithms and put them into practice
 > My first project you can find in ["graduation project"](https://github.com/KaraVVI/GraduationProject) repository
 <!--
 **KaraVVI/KaraVVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
