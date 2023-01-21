@@ -1,7 +1,8 @@
 ### Greetings, I'm Victor
 
-- I'm Senior Application Engineer (APS) in Schneider Electric
-- I’m currently learning Data Science
+- I'm Senior Application Engineer DCS in Schneider Electric
+- I’m currently studing Data Science
+- I'm currently working on voice recognition
 <!--
 **KaraVVI/KaraVVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
