@@ -1,6 +1,6 @@
 ### Greetings, I'm Victor
 
-- I'm Senior Application Engineer DCS in Schneider Electric
+- I'm Senior Application Engineer DCS in Systeme Electric
 - I’m currently studing Data Science
 - My goal is to learn speech recognition algorithms and put them into practice
 > My first project you can find in ["graduation project"](https://github.com/KaraVVI/GraduationProject) repository
